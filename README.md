@@ -7,7 +7,7 @@ Assignment form betasquirrel
 | Requirements                  |Out put |
 |-------------------------------|--------|
 | ![Task 1](image/logo.png) | Two    |
-| ![Task 1](image/task-2.png)  | Two    |
+| ![Task 2](image/task-2.png)  | Two    |
 
 ### Formatting
  
@@ -36,3 +36,15 @@ Assignment form betasquirrel
 
  - [HTML](https://www.w3schools.com/html/default.asp)
  - [Attributes](https://www.w3school.com/html/html_attributes.asp) 
+
+ # Responsive Design Simension
+
+ - xs ( <576 )
+ - sm ( >=576 )
+ - md ( >=768 )
+ - lg ( >=992 )
+ - xl ( >=1200 )
+ - xxl ( >=1400 )
+
+ - mobile `@media only screen and (mx-width: 767px) {}`
+ - tablet `@media only screen and (max-width: 991px) and (min-width: 768) {}`
