@@ -61,6 +61,7 @@ nav a {
     height: 100%;
     width: calc(100% - 362px);
     padding: 15px;
+    overflow-y: auto;
 }
 .heading {
     display: flex;
@@ -88,9 +89,17 @@ table {
     width: 100%;
     margin-top: 15px;
 }
-table, th, td {
+table.list-table,
+ .list-table th, 
+ .list-table td {
     border: 2px solid #555;
     border-collapse: collapse;
+}
+table.colored-table tr {
+    border-collapse: collapse;
+}
+.colored-table tr {
+    border-bottom: 2px solid #555;
 }
 th {
     text-transform: uppercase;
@@ -102,4 +111,16 @@ th:first-child, td:first-child {
 }
 td, th {
     padding: 15px;
+}
+caption {
+    padding-bottom: 15px;
+    font-size: 24px;
+    text-decoration: underline;
+}
+.list-table th:first-child, 
+.list-table td:first-child {
+    width: auto;
+}
+.colored-table tr:nth-child(odd) {
+    background-color: yellowgreen;
 }
