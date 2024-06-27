@@ -124,3 +124,12 @@ caption {
 .colored-table tr:nth-child(odd) {
     background-color: yellowgreen;
 }
+@media only screen and (mx-width: 767px) {
+    .sidebar {
+        display: none;
+    }
+    .content {
+        width: calc(100% - 30px);
+        overflow-x: auto;
+    }
+}
