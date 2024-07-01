@@ -4,10 +4,10 @@ Assignment form betasquirrel
 
 ## Requirements
 
-| Requirements                  |Out put |
-|-------------------------------|--------|
-| ![Task 1](image/logo.png) | Two    |
-| ![Task 2](image/task-2.png)  | Two    |
+| Requirements                    |Out put |
+|---------------------------------|--------|
+| ![Task 1](./image/task1:2.png)  |  Two   ||
+| ![Task 2](./image/task3.png)    |  Two   |
 
 ### Formatting
  

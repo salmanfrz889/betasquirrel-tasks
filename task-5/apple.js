@@ -158,3 +158,4 @@ two
     const fruits = ["banana", "apple", 4, true];
 
     console.log(fruits[fruits.length - 1]);
+    
