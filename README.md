@@ -55,3 +55,4 @@ Assignment form betasquirrel
  - Task- 3   =  https://salmanfrz889.github.io/betasquirrel-tasks/task-3.html
  - Task- 5   =  https://salmanfrz889.github.io/betasquirrel-tasks/task-5/task-5.html
  - admission =  https://salmanfrz889.github.io/betasquirrel-tasks/task-5/admission.html
+ - admission =  https://salmanfrz889.github.io/betasquirrel-tasks/task-5/admission-1.html
