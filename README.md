@@ -48,3 +48,10 @@ Assignment form betasquirrel
 
  - mobile `@media only screen and (mx-width: 767px) {}`
  - tablet `@media only screen and (max-width: 991px) and (min-width: 768) {}`
+
+ # Demo
+
+ - Task -1&2 =  https://salmanfrz889.github.io/betasquirrel-tasks/task-2.html
+ - Task- 3   =  https://salmanfrz889.github.io/betasquirrel-tasks/task-3.html
+ - Task- 5   =  https://salmanfrz889.github.io/betasquirrel-tasks/task-5/task-5.html
+ - admission =  https://salmanfrz889.github.io/betasquirrel-tasks/task-5/admission.html
